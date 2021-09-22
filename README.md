@@ -5,9 +5,13 @@
 ### Purpose of Analysis
 Many employees are retiring soon at Pewlett-Hackard, so there will be thousands of job openings coming in the next few years. We are building an employee database in SQL to analyze and prepare for the upcoming silver tsunami. 
 The major questions we are looking into are:
-    - Who is retiring soon?
-    - How many positions need to be filled?
-    - Offer retirement packages for people meeting cetain criteria.
+
+   - Who is retiring soon?
+    
+   - How many positions need to be filled?
+    
+   - Offer retirement packages for people meeting cetain criteria.
+    
 
 ### Overview of the Challenge
 Along with answering the above questions, we are asked to collect more information to,
