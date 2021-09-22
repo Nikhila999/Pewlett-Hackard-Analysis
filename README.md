@@ -3,7 +3,7 @@
 ## Overview of the Analysis
 
 ### Purpose of Analysis
-Many employees are retiring soon at Pewlett-Hackard, so there will be thoussnds of job openings coming in the next few years. We are building an employee database in SQL to analyze and prepare for the upcoming silver tsunami. 
+Many employees are retiring soon at Pewlett-Hackard, so there will be thousands of job openings coming in the next few years. We are building an employee database in SQL to analyze and prepare for the upcoming silver tsunami. 
 The major questions we are looking into are:
     - Who is retiring soon?
     - How many positions need to be filled?
